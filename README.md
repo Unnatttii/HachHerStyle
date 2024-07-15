@@ -1,4 +1,4 @@
-<u>**Virtual Try-On Prototype for Myntra Hackathon**</u>
+**<u>Virtual Try-On Prototype for Myntra Hackathon</u>**
 
 This repository contains a virtual try-on prototype developed for the Myntra Hackathon. The prototype demonstrates how to overlay a t-shirt image onto a user's photo using pose estimation and image processing techniques.
 
