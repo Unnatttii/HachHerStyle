@@ -1,4 +1,4 @@
-**Virtual Try-On Prototype for Myntra Hackathon**
+<u>**Virtual Try-On Prototype for Myntra Hackathon**</u>
 
 This repository contains a virtual try-on prototype developed for the Myntra Hackathon. The prototype demonstrates how to overlay a t-shirt image onto a user's photo using pose estimation and image processing techniques.
 
@@ -9,7 +9,7 @@ Image Processing: Resizes and overlays the t-shirt image based on shoulder keypo
 
 *Requirements*
 
-Python 3.6+
-OpenCV
-NumPy
-Matplotlib
+Python 3.6+<br>
+OpenCV<br>
+NumPy<br>
+Matplotlib<br>
